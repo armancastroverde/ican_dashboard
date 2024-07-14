@@ -17,3 +17,18 @@ h1 {
     align-items: center;
     height: calc(100vh - 60px);
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
